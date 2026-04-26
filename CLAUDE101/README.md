@@ -3,3 +3,6 @@ Define a prompt properly:
 - Define Task (Include this and that)
 - Rules (Use this and that)
 
+Also add contexts, they are like shortcuts for Claude to understand context. 
+
+
