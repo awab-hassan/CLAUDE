@@ -17,3 +17,6 @@ Key takeaways
 - Projects scale automatically. When your knowledge base approaches context limits, Claude seamlessly enables Retrieval Augmented Generation (RAG) mode to expand capacity by up to 10x while maintaining response quality.
 - For Claude for Work users, projects enable collaboration. Share projects with teammates so everyone benefits from the same context, instructions, and accumulated knowledge.
 
+Goodies for Projects
+- When you create a project, quickly explain this project is for XYZ purpose, use this tone throughout, dont agree with everything (my example), do this and that. Clear your instructions once you create a project. 
+
