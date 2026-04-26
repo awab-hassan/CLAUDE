@@ -23,4 +23,14 @@ The iteration mindset:
 
 # Using Artifacts
 - Be specific about what you want. "Build a budget tracker" is good, but "Build a monthly budget tracker where I can input expenses by category, see a pie chart breakdown, and get a warning when I'm over budget" is better.
+
+# Skills vs. Projects
+Projects store knowledge, skills perform tasks.
+
+-> Projects are knowledge hubs. They hold the reference materials Claude needs to understand your work—project specs, meeting notes, research documents. When you upload files to a project, Claude draws on that information across every conversation within that project.
+
+-> Skills are procedural machines. They encode how Claude should execute a task—the specific steps, order of operations, and methodology you want followed every time. Skills shine when you have repeatable workflows you want Claude to run consistently.
+
+
+
 - Describe the end user. Telling Claude who will use the artifact helps it make appropriate design choices. "This flowchart is for new employees" leads to different results than "This flowchart is for the engineering team."
