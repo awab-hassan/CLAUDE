@@ -35,3 +35,8 @@ Projects store knowledge, skills perform tasks.
 # What is Research?
 - Research is an advanced feature that transforms Claude from a conversational assistant into a systematic investigator. When you enable Research, Claude doesn't just answer your question—it explores it from multiple angles, synthesizing information from across the web and your connected integrations.
 - Think of it as having a skilled research assistant who can spend hours gathering information, cross-referencing sources, and compiling a comprehensive report—except it happens in minutes instead of hours.
+
+# Summarise
+- Projects create dedicated workspaces with persistent knowledge, custom instructions, and team collaboration
+- Artifacts are standalone outputs like documents, code, diagrams, and interactive tools that Claude creates alongside your conversation
+- Skills are instruction packages that teach Claude specialized workflows—including built-in document creation and custom skills you can create
