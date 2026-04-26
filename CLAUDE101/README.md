@@ -5,4 +5,6 @@ Define a prompt properly:
 
 Also add contexts, they are like shortcuts for Claude to understand context. 
 
+The iteration mindset:
+- One of the most important shifts when working with Claude is recognizing that your first prompt rarely produces a perfect result—and that's okay. Think of your initial prompt as the start of a conversation, not a one-shot request.
 
