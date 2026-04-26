@@ -40,3 +40,9 @@ Projects store knowledge, skills perform tasks.
 - Projects create dedicated workspaces with persistent knowledge, custom instructions, and team collaboration
 - Artifacts are standalone outputs like documents, code, diagrams, and interactive tools that Claude creates alongside your conversation
 - Skills are instruction packages that teach Claude specialized workflows—including built-in document creation and custom skills you can create
+- Connectors link Claude to your tools (Google Workspace, Slack, Notion, and many more) so it can work with your actual data
+- Enterprise Search provides a dedicated project for searching across your organization's knowledge sources
+- Research mode conducts systematic, multi-source investigations that would take hours to do manually
+Putting it all together
+- Claude applies across roles—sales, marketing, finance, HR, legal, research, and beyond
+- Beyond claude.ai, you can work with Claude through Claude Code, Slack, Excel, and Chrome
